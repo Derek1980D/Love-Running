@@ -103,7 +103,7 @@ h1,h2 {
     background-color: rgba(241, 109, 109, .7);
     bottom: 30px;
     right:150px;
-
+    
     position: absolute;
 }
 
@@ -192,7 +192,7 @@ h1,h2 {
     width: 20%;
     height: 300px;
     float: left;
-    padding: 30px 10x;
+    padding: 30px 10px;
     text-align: center;
     border: 2px solid white;
     box-sizing: border-box;
@@ -200,4 +200,8 @@ h1,h2 {
 
 #times h2 {
     color: #fafafa;
+}
+
+#footer {
+    height: 150px;
 }
