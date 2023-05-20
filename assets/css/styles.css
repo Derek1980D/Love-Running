@@ -103,7 +103,7 @@ h1,h2 {
     background-color: rgba(241, 109, 109, .7);
     bottom: 30px;
     right:150px;
-    
+
     position: absolute;
 }
 
@@ -204,4 +204,21 @@ h1,h2 {
 
 #footer {
     height: 150px;
+}
+
+.social-networks  {
+    text-align: center;
+    
+}
+
+.social-networks li {
+    text-align: center;
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
